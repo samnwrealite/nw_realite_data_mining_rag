@@ -4,7 +4,7 @@ pytesseract==0.3.10
 Pillow==10.1.0
 
 # OCR engine dependencies (Windows)
-# Make sure to install Tesseract OCR: https://github.com/tesseract-ocr/tesseract
+# Install Tesseract OCR: https://github.com/tesseract-ocr/tesseract
 
 # Text processing
 regex==2025.11.21
@@ -21,7 +21,7 @@ faiss-cpu==1.7.4
 # Optional: Database
 SQLAlchemy==2.0.23
 
-# API (if needed)
+# API 
 fastapi==0.104.0
 uvicorn==0.24.0
 python-multipart==0.0.6
